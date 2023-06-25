@@ -1,6 +1,6 @@
 # Data-generation: 
-In file original_dataset.dat, we put the original values of the training times with  limited number of AIFs and CPU cores
-In file synthetic_dataset.dat, we put the synthetic values of the training time. We generate this dataset as follows:
+In file original_dataset.csv, we put the original values of the training times with  limited number of AIFs and CPU cores
+In file synthetic_dataset.csv, we put the synthetic values of the training time. We generate this dataset as follows:
 
 Input: training time in function of the number of AIFs (2,4,6) and the number of cpu cores (1,2,4,6,8). 
 1- We need to extend the number of CPU cores (until 16 cpu cores) using data fitting
