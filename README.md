@@ -1,4 +1,6 @@
-# Data-generation: 
+# IFLC:
+
+IFLC (In-Network Federated Learning Control)
 In file original_dataset.csv, we put the original values of the training times with  limited number of AIFs and CPU cores
 In file synthetic_dataset.csv, we put the synthetic values of the training time. We generate this dataset as follows:
 
