@@ -1,4 +1,4 @@
-# Data-generatio: data fitting of the dataset (#AIFs, #CPU, training time)
+# Data-generation: 
 In file original_dataset.dat, we put the original values of the training times with  limited number of AIFs and CPU cores
 In file synthetic_dataset.dat, we put the synthetic values of the training time. We generate this dataset as follows:
 
